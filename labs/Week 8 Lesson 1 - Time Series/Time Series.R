@@ -1,4 +1,7 @@
 install.packages('fpp')
+install.packages('forecast')
+
+
 
 library('forecast')
 library('fpp')
